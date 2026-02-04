@@ -1,4 +1,4 @@
-# ModestPharaoh's Hass.io Custom Addons Repository 
+# Hoducnguyenhd Custom Addons Repository 
 This repository contains my custom  add-ons for hass.io.
 
 ## Addons
